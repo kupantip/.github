@@ -1,6 +1,6 @@
 # KU Pantip (ISP Project)
 
-![Project Logo](./docs/logo-placeholder.png)  
+![Project Logo](./Picture1.png)  
 <!-- Replace with your logo path, e.g. /assets/logo.png -->
 
 A community-driven platform for Kasetsart University (KU) students to **ask questions, share information, and explore campus life**.  
